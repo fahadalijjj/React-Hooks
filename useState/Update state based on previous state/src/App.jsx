@@ -2,11 +2,10 @@ import './App.css'
 
 function App() {
 
-
   return (
     <>
      <h1>React Hook: useState</h1>
-     <p>topic: Adding state to a component</p>
+     <p>topic: Update state based on previous state</p>
     </>
   )
 }
